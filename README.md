@@ -1,6 +1,13 @@
-Libros de estudios.
+Libros de estudios.   (✖╭╮✖) (≧◡≦) (¬_¬)
 
-.............PYTHON...................ARRANCANDO VENTILADORES
+……(\_/)
+……( ‘_’)
+…./”"”"”"”"”"”"\======░
+ /”"”"”"”"”"”"”"”"”"”\
+   \_@_@_@_@_@_/
+
+
+....PYTHON........ARRANCANDO VENTILADORES 
 
 
 import math
