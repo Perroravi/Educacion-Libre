@@ -1,4 +1,5 @@
 Materia Algoritmos y Estructura de Datos:
+-------------------------------- UNIVERSIDADES ARGENTINAS -------------------------------------------------------------------
   a - Canal Marcela Tartabini, link https://youtube.com/playlist?list=PL9t1wTLMgsps83Rx94qUqgTOAeCdVlyDF&si=GgC03GyF8Xi-ziXh
   b - Canal Utn 2K1 - Algoritmos y estructura de datos, link https://youtube.com/playlist list=PLvEcnfMi3xU5UbunGOWesOxbJypfV2qUl&si=ava-wDmbxQETWASP
   c - Canal Coty Adami - AED, link https://youtube.com/playlist?list=PLCuYy-b0-_OucVsoGkz3Wwq5-asGjyAzY&si=kkpLz-98qzw0ds-9
@@ -7,3 +8,6 @@ Materia Algoritmos y Estructura de Datos:
   f - Canal Joaquin Ramirez, link https://www.youtube.com/watch?v=I5SgC1cRrYQ&list=PLxo6NEAYFq-PZ6K65_ebv0fcMiz_K_bOV
   g - Canal Stefania Bruera, link https://www.youtube.com/@StefaniaBruera/playlists
   h - Canal https://www.youtube.com/@eugebonadies/playlists, link https://www.youtube.com/@clasesutn6974/playlists
+
+---------------------------------- UNIVERSIDADES ARGENTINAS Y DIVULGADORES ------------------------------------------------
+  
