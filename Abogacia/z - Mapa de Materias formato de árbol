@@ -1,30 +1,59 @@
+
 MAPA DE MATERIAS Y TEMAS RELACIONADOS
 ABOGACÍA - UBA
 
+
 SOCIOLOGÍA / CIENCIAS SOCIALES
+          ↓
+   [RELACIÓN TEMÁTICA]
           ↓
     PSICOLOGÍA JURÍDICA
           │
           ├── DERECHO PENAL
           │     ├── conducta delictiva
           │     ├── imputabilidad
+          │     ├── responsabilidad
           │     ├── víctimas
           │     └── criminología
+          │
+          ├── TEORÍA DEL DELITO
+          │     ├── conducta / acción
+          │     ├── culpabilidad
+          │     ├── imputabilidad
+          │     └── comprensión de la conducta
           │
           ├── DERECHO DE FAMILIA
           │     ├── conflictos familiares
           │     ├── niñez y adolescencia
-          │     └── vínculos familiares
+          │     ├── vínculos familiares
+          │     ├── violencia familiar
+          │     └── capacidad y autonomía
           │
           ├── DERECHO PROCESAL
           │     ├── testimonio
           │     ├── entrevistas
           │     ├── prueba pericial
+          │     ├── pericia psicológica
           │     └── valoración de conductas
           │
           ├── DERECHOS HUMANOS
+          │     ├── dignidad
+          │     ├── autonomía
+          │     ├── vulnerabilidad
+          │     └── protección de víctimas
+          │
+          ├── CRIMINOLOGÍA
+          │     ├── conducta criminal
+          │     ├── factores individuales
+          │     ├── factores sociales
+          │     ├── victimología
+          │     └── prevención
           │
           └── PRÁCTICA PROFESIONAL
+                ├── interpretación de pericias
+                ├── trabajo interdisciplinario
+                ├── entrevistas
+                └── análisis de conflictos
 
 
 TEORÍA GENERAL DEL DERECHO
@@ -59,13 +88,15 @@ TEORÍA DEL DELITO Y SISTEMA DE LA PENA
           │     ├── tipo objetivo
           │     ├── nexo causal
           │     ├── imputación objetiva
-          │     └── tipo subjetivo
-          │            └── dolo
+          │     └── tipo subjetivo / dolo
           │
           ├── antijuridicidad
           │     └── causas de justificación
           │
           ├── culpabilidad
+          │     └── PSICOLOGÍA JURÍDICA
+          │           └── relación temática
+          │
           ├── tentativa
           ├── autoría y participación
           ├── delito culposo
@@ -90,12 +121,11 @@ DERECHO SOCIETARIO
           ├── constitución de sociedades
           ├── inscripción registral
           ├── socios y aportes
-          ├── administración
-          ├── representación
+          ├── administración y representación
           │
           ├── grupos societarios
-          │     ├── sociedades vinculadas
-          │     └── sociedades controladas
+          │     ├── vinculadas
+          │     └── controladas
           │
           ├── reorganización
           │     ├── transformación
@@ -105,7 +135,7 @@ DERECHO SOCIETARIO
           ├── disolución
           ├── liquidación
           │
-          └── TIPOS SOCIETARIOS
+          └── tipos societarios
                 ├── SRL
                 ├── SA
                 ├── SAU
@@ -115,9 +145,3 @@ DERECHO SOCIETARIO
           │
           ↓
 DERECHO EMPRESARIAL
-          │
-          ├── contratación mercantil
-          ├── mercado financiero
-          ├── mercado de capitales
-          ├── propiedad industrial
-          └── derecho de la competencia
