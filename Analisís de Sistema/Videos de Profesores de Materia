@@ -1,7 +1,7 @@
 * Análisis de sistemas
   Se enfoca en entender y definir qué necesita el usuario/organización y qué debe hacer el sistema.
     - Relevamiento (entrevistas, observación, documentación)
-    - Modelado de requisitos (funcionales / no funcionales)
+    - Modelado de requisitos (funcionales / no funcionales) 
     - Casos de uso / historias de usuario
     - Modelos de datos y procesos (según la materia: UML, DFD, ER, etc.)
     - Documento de requisitos / especificación
