@@ -24,6 +24,7 @@ Materia Algoritmos y Estructura de Datos:
   t - Canal pgcomp1, link https://www.youtube.com/@pgcomp1/playlists
   v - Canal Franco Luque, link https://www.youtube.com/@FrancoMLuque/courses
   w - Canal Algoritmos y Estructuras de Datos, link https://www.youtube.com/@AED-UTN/videos
+  x - Canal Fede Maidan, link https://www.youtube.com/@fedemaidan120/videos
 
 ---------------------------------- UNIVERSIDADES ARGENTINAS Y DIVULGADORES ------------------------------------------------
 a - Canal Carlos Delgado, link https://www.youtube.com/@cardel87/playlists
